@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="maintainabilitybook" target="1.7" />
+      <module name="maintainabilitybook" target="12" />
     </bytecodeTargetLevel>
   </component>
 </project>

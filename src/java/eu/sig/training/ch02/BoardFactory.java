@@ -26,6 +26,7 @@ public class BoardFactory {
     // end::createBoard[]
 }
 
+
 class Board {
     @SuppressWarnings("unused")
     public Board(Square[][] grid) {}
